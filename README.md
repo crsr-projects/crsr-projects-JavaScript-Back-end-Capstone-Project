@@ -1,5 +1,8 @@
 # JavaScript Back-end Capstone Project 
 
+## db.js
+![db.js](images/await.png)
+
 ## secondChanceItemsRoutes.js
 
 ![secondChanceItemsRoutes.js](images/secondChanceItemsRoutes.js.png)
