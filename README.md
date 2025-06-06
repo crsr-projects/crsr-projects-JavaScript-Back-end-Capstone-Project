@@ -22,3 +22,6 @@
 
 ## DELETE an item 
 ![DELETE an item](images/delete.png)
+
+## Upload a file
+![Upload a File](images/uploadfile.png)
